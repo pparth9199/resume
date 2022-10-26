@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Parth Patel",
+    "occupation": "Full Stack Developer",
+    "description": "I work on every part of the stack",
+    "image": "profilepic.jpg",
+    "bio": "Full stack developer with experience in every layer of the tech stack. I have worked as a sole Backend developer, Frontend developer, Site reliability engineer and Data engineer. I recently completed my internship at Unity where I worked on multiple teams which gave a boost to my Data Engineering skills, Backend skills and Front end skills.  ",
+    "contactmessage": "Get in touch with me for any working opportunities.",
+    "email": "pjp9443@gmail.com",
+    "phone": "+1 2368695045",
+    "address": {
+      "street": "14290 100A avenue",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "zip": "V3T 1K5"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1cDmRLtiby_0F4mT0oNwa8sw4UI-v_tFF",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parthpatel9199/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pparth9199",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Conceptual & Language Proficiency",
+    "education": [
+      {
+        "school": "Northeastern University",
+        "degree": "Master's of Science in Computer Science",
+        "graduated": "April 2023",
+        "description": "Graduating in April 2023"
+      },{
+        "school": "Charotar University of Science and Technology",
+        "degree": "Bachelor's in Computer Engineering",
+        "graduated": "May 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Unity Technologies",
+        "title": "Software Developer Intern",
+        "years": "May 2022 - August 2022",
+        "description": "Developed ETL as a service architecture with JINJA2 templates to generate DAGs for Apache Airflow. Worked on backend APIs for Remote Config included in Unity dashboard in Scala with 95% code coverage. Worked on updating GCP to multi-region clusters using Terraform. Implemented Snyk with GitHub repos for better security thus, reducing failure rate by 65%. Designed and developed complete React front end for Player Engagement."
+      },
+      {
+        "company": "Public Sector Network",
+        "title": "Site Reliability Engineer",
+        "years": "November 2021 - April 2022",
+        "description": "Deployed and monitored Amazon Web Services resources ( EC2, VPC, ELB, S3, RDS ). Performed automation of repetitive tasks and resolution of systematic issues. Deployed code updates to production and testing environments in order to move environments forward."
+      },
+      {
+        "company": "iClerisy",
+        "title": "Software Engineer Intern",
+        "years": "January 2021 - May 2021",
+        "description": "Developed a React Native application for Best Choice Products, a company based in California. Implemented with shopify backend along with React Native AsyncStorage to improve user experience over company’s website by 40%."
+      },
+      {
+        "company": "Finalytics Technologies",
+        "title": "Software Engineer Intern",
+        "years": "April 2020 - August 2020",
+        "description": "Implemented complete backend API for a react native movie quiz game based on IMDB using Python Flask with 90% code coverage as a team of 3 developers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "DevOps",
+        "level": "90%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Parth is knowledgable, articulate and a pleasure to work with. He always aims to on achieving goals without waiting for the deadlines to approach. I have worked with him on various projects and a research chapter where he proved to be the ideal teammate and a supporting colleague. He always motivates people around him. In addition to his excellent core skills of software engineering, he has exhibited a level of understanding and curiosity for new concepts that comes his way. I have known him for about 5 years now and I would highly recommend him for his skills and the person he has grown into.",
+        "user": "Riddhi Patel, Ex-Cisco"
+      },
+      {
+        "text": "We’ve joined our hands on a research paper, and Parth is one of the good students I had in my team. I highly recommend his expertise to any person looking for the Machine Learning and Deep Learning. He can become an appreciated member of any team.",
+        "user": "Chintan Bhatt, Assistant Professor at Pandit Deendayal Energy University"
+      },
+      {
+        "text": "As a Fresher straight out of the college, Parth possess great skills to become a wonderful technical asset in any organization. He is hard working with great enthusiasm to learn and implement new technologies. With superb communication, he makes it very easy for superiors to assign him tasks with an assurance that it will be delivered on time. In my personal experience he learnt AWS cloud very quickly and implemented a SQL DB in RDS with very minimal supervision. Not only he understand technology, he also involves in business understanding which will be becoming better with more experience he gains. All these qualities at such a young age only promise him a successful career and loads of learning. All the best!!!",
+        "user": "Vaibhav Sahu, Strategic Cloud Engineer at Google"
+      }
+    ]
+  }
+}
