@@ -9,16 +9,16 @@
     "email": "pjp9443@gmail.com",
     "phone": "+1 2368695045",
     "address": {
-      "street": "9177 147A street",
-      "city": "Vancouver",
-      "state": "British Columbia",
-      "zip": "V3R 3V9"
+      "street": "17 Barlow Road",
+      "city": "Scarborough",
+      "state": "Ontario",
+      "zip": "M1G 2B5"
     },
     "resumedownload": "https://drive.google.com/uc?export=download&id=1cDmRLtiby_0F4mT0oNwa8sw4UI-v_tFF",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/parthpatel9199/",
+        "url": "https://www.linkedin.com/in/parthjpatel9443/",
         "className": "fa fa-linkedin"
       },
       {
@@ -35,8 +35,9 @@
         "school": "Northeastern University",
         "degree": "Master's of Science in Computer Science",
         "graduated": "April 2023",
-        "description": "Graduating in April 2023"
-      },{
+        "description": "Graduated in May 2023"
+      },
+      {
         "school": "Charotar University of Science and Technology",
         "degree": "Bachelor's in Computer Engineering",
         "graduated": "May 2021",
@@ -44,6 +45,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Unity Technologies",
+        "title": "Software Developer",
+        "years": "July 2023 - Present",
+        "description": "Undertook designing of Releases from scratch along with TDD development and contributing to the backend and frontend of the Releases bolstering enhanced Unity Cloud module releases for game studio PMs. Spearheaded the development of Experimentation of game overrides  for A/B testing in Python and Pandas, fostering data-driven decision-making for Game developers. Developed Templates front-end for remote-config, ensuring seamless integration with JSON schema templates on the Unity Cloud dashboard fostering secure changes to remote-config values . Led the redesigning of the unity cloud dashboard to have a darkmode theme as well based on user’s system settings enhancing user experience for the customers. Resolved critical Snowflake Concurrency issues in Push Notifications micro-services using Kotlin, enhancing system stability. Engineered a plan for Recurring Game overrides to create automations for users to improve their game engagement"
+      },
+      {
+        "company": "Visier",
+        "title": "Site Reliability Engineer Intern",
+        "years": "January 2023 - April 2023",
+        "description": "Developed robust solutions addressing potential race conditions during the update of CNAME records, showcasing a keen problem-solving ability in ensuring the reliability of critical infrastructure components. Created efficient shell scripts for generating debug information of EC2 instances, facilitating streamlined debugging processes and storage to S3 buckets. Engineered a sophisticated Jenkins pipeline that automates daily runs, generating comprehensive CSV reports detailing the downtime of each deployment across different regions. This initiative significantly improved visibility and tracking of deployment performance"
+      },
       {
         "company": "Unity Technologies",
         "title": "Software Developer Intern",
@@ -70,6 +83,18 @@
       }
     ],
     "skills": [
+      {
+        "name": "TypeScript",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "GoLang",
+        "level": "99%"
+      },
       {
         "name": "Python",
         "level": "100%"
